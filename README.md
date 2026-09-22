@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to customize the column menu in the Syncfusion Blazor DataGrid. The implementation focuses on modifying the menu items displayed when users interact with a column menu, allowing developers to tailor the available actions based on application requirements. Customizing the column menu helps simplify the user interface, improve usability, and provide only the operations that are relevant to a particular business scenario. This sample serves as a practical reference for developers who need greater control over DataGrid column interactions and menu presentation.
+This sample demonstrates how to customize the column menu in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). The implementation focuses on modifying the menu items displayed when users interact with a column menu, allowing developers to tailor the available actions based on application requirements. Customizing the column menu helps simplify the user interface, improve usability, and provide only the operations that are relevant to a particular business scenario. This sample serves as a practical reference for developers who need greater control over DataGrid column interactions and menu presentation.
 
 ## Key Features
 
